@@ -1,7 +1,7 @@
 Tell me the time
 ==========================
 
-### Problem Statement:
+## Problem Statement:
 Given the time in numerals we may convert it into words, as shown below:
 - 6:00 → six o’ clock
 - 6:01 → one minute past six
