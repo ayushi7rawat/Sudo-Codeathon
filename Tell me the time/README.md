@@ -4,15 +4,15 @@ Tell me the time
 Problem Statement:
 ==========================
 Given the time in numerals we may convert it into words, as shown below:
-6:00 → six o’ clock
-6:01 → one minute past six
-6:10 → ten minutes past six
-6:15 → quarter past six
-6:28 → twenty eight minutes past six
-6:30 → half past six
-6.40 → twenty minutes to seven
-6:45 → quarter to seven
-6:47 → thirteen minutes to seven
+- 6:00 → six o’ clock
+- 6:01 → one minute past six
+- 6:10 → ten minutes past six
+- 6:15 → quarter past six
+- 6:28 → twenty eight minutes past six
+- 6:30 → half past six
+- 6.40 → twenty minutes to seven
+- 6:45 → quarter to seven
+- 6:47 → thirteen minutes to seven
 
 At minutes = 0, use o’ clock. For 1 <= minutes <= 30, use past, and for 30 < minutes use to. Note the space between the apostrophe and clock in o’ clock. Write a program which prints the time in words for the input given in the format described.
 
